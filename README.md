@@ -4,6 +4,8 @@ Many many many many thanks to Jan Jaap and his [FPV Remote Visualizer,](https://
 
 # Intro
 
+![https://i.imgur.com/duwT86R.gif]
+
 ## Knowledge Prerequisites/Who is this for?
 
   If you can build and program your own drone, you can probably get through this no problem. **You do not need to know how to code or anything about embedded systems to get sick ass custom lighting on your racing whoop.** Every bit of knowledge makes this process easier, but i hadn't coded with any seriousness since more or less highschool before doing this. The tools that are available today make a project like this possible without deep programming knowledge. I'm going to attempt to present this in a way that you can skip the technical section if you choose just to get the lighting up and running, but the technical section will be the most relevent bits of electronics, lighting, embeded systems and coding that got me from basically 0 foundational knowledge to messing with this stuff.
