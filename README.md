@@ -4,7 +4,8 @@ Many many many many thanks to Jan Jaap and his [FPV Remote Visualizer,](https://
 
 # Intro
 
-!(Rainbow Boi)[https://i.imgur.com/duwT86R.gif]
+![IMG_2649(2)](https://github.com/user-attachments/assets/79f75dfe-c7d2-4d7c-a814-40f3fff89a19)
+
 
 ## Knowledge Prerequisites/Who is this for?
 
