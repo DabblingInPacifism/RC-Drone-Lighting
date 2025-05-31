@@ -20,12 +20,12 @@ Many many many many thanks to Jan Jaap and his [FPV Remote Visualizer,](https://
 ## What we'll need.
 
 Parts:
-*[2.7mm 5V COB LEDs WS2812B or similar](https://www.alibaba.com/product-detail/2-7mm-COB-LED-Strip-Ultra_1601423996981.html)
-*[ATTiny85 MCU](https://www.alibaba.com/product-detail/ATTINY85-20PU-ATTINY85-Attiny85-Microcontroller-DIP8_11000018774516.html)
-*[Tiny AVR Programmer](https://www.amazon.com/SparkFun-Tiny-AVR-Programmer/dp/B00B6KNJRY)
-*[Gorilla Double Sided tape](https://gorillatough.com/product/gorilla-double-sided-tape/)
-*Wire, soldering kit, heat shrink.
+- [2.7mm 5V COB LEDs WS2812B or similar](https://www.alibaba.com/product-detail/2-7mm-COB-LED-Strip-Ultra_1601423996981.html)
+- [ATTiny85 MCU](https://www.alibaba.com/product-detail/ATTINY85-20PU-ATTINY85-Attiny85-Microcontroller-DIP8_11000018774516.html)
+- [Tiny AVR Programmer](https://www.amazon.com/SparkFun-Tiny-AVR-Programmer/dp/B00B6KNJRY)
+- [Gorilla Double Sided tape](https://gorillatough.com/product/gorilla-double-sided-tape/)
+- Wire, soldering kit, heat shrink.
 
 Software:
-*[Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
-*[Tiny AVR Programmer drivers](https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/#automatic-install) (This page will also show you how to enable the ATTiny plugin in Arduino IDE.)
+- [Arduino IDE](https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
+- [Tiny AVR Programmer drivers](https://learn.sparkfun.com/tutorials/tiny-avr-programmer-hookup-guide/#automatic-install) (This page will also show you how to enable the ATTiny plugin in Arduino IDE.)
